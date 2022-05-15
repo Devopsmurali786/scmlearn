@@ -1,0 +1,2 @@
+# scmlearn
+scmgit new
